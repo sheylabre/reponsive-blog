@@ -1,0 +1,96 @@
+/* Inserta tu codigo aqui */
+body{
+    background: #2D2735;
+}
+
+img{
+    width: 100%;
+}
+.head-foot{
+    background-color: #1C1821;
+
+}
+
+#logo{
+    width: 50%;
+}
+
+.menu{
+    margin: 5% 0 0 30%;
+}
+
+.m1{
+    color: white;
+    text-decoration: none;
+    padding: 3%;
+}
+
+.flor1{
+    background-image: url(../image/header-image.jpg);
+    background-size: 100%;
+    width: 100%;
+    margin: 5% 0%;
+}
+
+.subtitle{
+    padding: 5%;
+}
+
+.in{
+    display: none;
+}
+
+.center-flor, .title .menu{
+    margin: 10% 30%;
+    text-align: center;
+    background-color: #1C1821;
+}
+
+.title{
+    padding: 8% 0% 0%;
+    font-size: 350%;
+    font-family: "Courgette";
+    color: #F7BA6A;
+}
+
+.menu2{
+    text-align: center;
+    color: white;
+    background-color: #1C1821;
+}
+
+.iflor{
+    color: #F7BA6A;
+    text-decoration: none;
+}
+
+.la{
+    margin: 0 4% 0 0;
+}
+
+.pd{
+    padding: 3% 0%;
+}
+
+
+.mg{
+    margin: 5% 0% 0%;
+}
+
+.box{
+    padding: 5% 0%;
+}
+input{
+    border:none;
+    width: 85%;
+    padding: 3px 15px;
+
+
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+

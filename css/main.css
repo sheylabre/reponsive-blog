@@ -123,7 +123,17 @@ footer{
 .ic{
     font-size: 150%;
     margin:2%;
+}
 
+.leftt{
+    text-align: left;
+    margin:3% 10%;
+
+}
+
+.text3{
+    padding: 3%;
+    text-align: left;
 }
 
 a:hover{

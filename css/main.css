@@ -77,15 +77,39 @@ img{
     margin: 5% 0% 0%;
 }
 
-.box{
-    padding: 5% 0%;
+.bax{
+    margin: 12% 0% 0% 5%;
 }
+
+.aboutme{
+    padding: 2%;
+}
+
 input{
     border:none;
     width: 85%;
     padding: 3px 15px;
+}
 
+.put{
+    background-color: #2D2735;
+    padding: 4%;
+}
 
+form{
+    margin-bottom: 5%;
+    padding: 5%;
+}
+
+.vide{
+    margin-bottom: 5%;
+}
+
+footer{
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
 
 /* Responsive */
 
